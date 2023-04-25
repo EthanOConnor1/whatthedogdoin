@@ -5,3 +5,5 @@
 ### *Team introduction:* Formerly known as the Pancake Process 'Provement Posse, our team of three em**barks** on a quest to conquer the world of data analytics, now donning the name Determined Data Destroying Dudes (and Dudette).
 
 ### *Dataset:* https://www.kaggle.com/datasets/danielshanbalico/dog-emotion
+
+### *welovesentdex:* https://www.youtube.com/watch?v=j-3vuBynnOE&t=645s&ab_channel=sentdex
